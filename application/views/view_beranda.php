@@ -1,13 +1,15 @@
-<div class="site-blocks-cover" style="background-image: url(images/hero_1.jpg);" data-aos="fade">
+
+
+<div class="site-blocks-cover" style="background-image: url(<?php echo base_url()."assets/images/banner.png" ?>);" data-aos="fade">
   <div class="container">
     <div class="row align-items-start align-items-md-center justify-content-end">
       <div class="col-md-5 text-center text-md-left pt-5 pt-md-0">
         <h1 class="mb-2">Buat Kaos / Baju Sesuai Kemauan Anda</h1>
         <div class="intro-text text-center text-md-left">
           <p class="mb-4">Tentukan desain mu sendiri sekarang juga. </p>
-          <p>
+ <!--          <p>
             <a href="#" class="btn btn-sm btn-primary">Shop Now</a>
-          </p>
+          </p> -->
         </div>
       </div>
     </div>
@@ -47,7 +49,7 @@
     </div>
   </div>
 </div>
-<div class="site-section site-blocks-2">
+<!-- <div class="site-section site-blocks-2">
   <div class="container">
     <div class="row">
       <div class="col-sm-6 col-md-6 col-lg-4 mb-4 mb-lg-0" data-aos="fade" data-aos-delay="">
@@ -86,8 +88,8 @@
     </div>
   </div>
 </div>
-
-<div class="site-section block-3 site-blocks-2 bg-light">
+ -->
+<!-- <div class="site-section block-3 site-blocks-2 bg-light">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-md-7 site-section-heading text-center pt-4">
@@ -161,7 +163,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <div class="site-section block-8">
   <div class="container">
